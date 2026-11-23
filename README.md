@@ -1,6 +1,7 @@
 # resolute-test
 
 [![Update packages](https://github.com/radxa-repo/resolute-test/actions/workflows/update.yaml/badge.svg)](https://github.com/radxa-repo/resolute-test/actions/workflows/update.yaml)
+[![Publish packages](https://github.com/radxa-repo/resolute-test/actions/workflows/build.yaml/badge.svg)](https://github.com/radxa-repo/resolute-test/actions/workflows/build.yaml)
 
 ## Content
 
